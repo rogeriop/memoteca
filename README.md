@@ -13,7 +13,7 @@ Memoteca é um aplicativo organizador de pensamentos e frases que permite cadast
 [Curso de JavaScript: implementando CRUD com requisições HTTP](https://cursos.alura.com.br/course/javascript-implementando-crud-requisicoes-http) 
 
 #### Como ficou a tela principal do projeto
-![Imagem da tela principal](./assets/printMemoteca.png "Tela principal")
+![Imagem da tela principal](assets/imagens/printMemoteca.png "Tela principal")
 
 ## 🔨 Funcionalidades do projeto
 
